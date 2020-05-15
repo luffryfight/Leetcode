@@ -5,42 +5,49 @@ import java.util.HashMap;
 import java.util.List;
 
 class Solution {
+    /*
+    * 内层while是关键,s和p转化成char[]读取效率比charAt高
+    * */
     public List<Integer> findAnagrams(String s, String p) {
-        // 用于返回字母异位词的起始索引
-        List<Integer> res = new ArrayList<>();
-        // 用 map 存储目标值中各个单词出现的次数
-        HashMap<Character, Integer> map = new HashMap<>();
-        for (Character c : p.toCharArray()) map.put(c, map.getOrDefault(c, 0) + 1);
-        // 用另外一个 map 存储滑动窗口中有效字符出现的次数
-        HashMap<Character, Integer> window = new HashMap<>();
-        int left = 0; // 左指针
-        int right = 0; // 右指针
-        int valid = p.length(); // 只有当 valid == 0 时，才说明 window 中包含了目标子串
-        while (right < s.length()) {
-            // 如果目标子串中包含了该字符，才存入 window 中
-            if (map.containsKey(s.charAt(right))) {
-                window.put(s.charAt(right), window.getOrDefault(s.charAt(right), 0) + 1);
-                // 只有当 window 中该有效字符数量不大于map中该字符数量，才能算一次有效包含
-                if (window.get(s.charAt(right)) <= map.get(s.charAt(right))) {
-                    valid--;
-                }
-            }
-            // 如果 window 符合要求，即两个 map 存储的有效字符相同，就可以移动左指针了
-            // 但是只有二个map存储的数据完全相同，才可以记录当前的起始索引，也就是left指针所在位置
-            while (valid == 0) {
-                if (right - left + 1 == p.length()) res.add(left);
-                // 如果左指针指的是有效字符,需要更改 window 中的 key 对应的 value
-                // 如果 有效字符对应的数量比目标子串少，说明无法匹配了
-                if (map.containsKey(s.charAt(left))) {
-                    window.put(s.charAt(left), window.get(s.charAt(left)) - 1);
-                    if (window.get(s.charAt(left)) < map.get(s.charAt(left))) {
-                        valid++;
-                    }
-                }
+        if(s==null||p==null||s.length()<p.length())
+            return new ArrayList<>();
+        char[] arrS = s.toCharArray();
+        char[] arrP = p.toCharArray();
+        // 接收最后返回的结果
+        List<Integer> ans = new ArrayList<>();
+
+        // 定义一个 needs 数组来看 arrP 中包含元素的个数
+        int[] needs = new int[26];
+        // 定义一个 window 数组来看滑动窗口中是否有 arrP 中的元素，并记录出现的个数
+        int[] window = new int[26];
+
+        // 先将 arrP 中的元素保存到 needs 数组中
+        for (int i = 0; i < arrP.length; i++) {
+            needs[arrP[i] - 'a'] += 1;
+        }
+
+        // 定义滑动窗口的两端
+        int left = 0;
+        int right = 0;
+
+        // 右窗口开始不断向右移动
+        while (right < arrS.length) {
+            int curR = arrS[right] - 'a';
+            // 将右窗口当前访问到的元素 curR 个数加 1
+            window[curR]++;
+            // 当 window 数组中 curR 比 needs 数组中对应元素的个数要多的时候就该移动左窗口指针
+            while (window[curR] > needs[curR]) {//说明窗口内的字符串和目标串不同了
+                //最重要的这个循环，提高了速度
+                // 将左窗口当前访问到的元素 curL 个数减 1//比如abc时出现e，就必须left右移到e的值--
+                window[arrS[left] - 'a']--;
                 left++;
+            }
+            //窗口大小符合要求就添加索引
+            if (right - left +1== arrP.length) {//因为right先++了，所以窗口大小判断是对的
+                ans.add(left);
             }
             right++;
         }
-        return res;
+        return ans;
     }
 }
