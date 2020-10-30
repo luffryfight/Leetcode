@@ -8,7 +8,7 @@ class Solution {
             l2.next.next=new ListNode(4);*/
 
             ListNode res= addTwoNumbers(l1,l2);
-            for (int i = 0; i < 3; i++) {
+            for (int left = 0; left < 3; left++) {
                 System.out.println(res.val);
                 res=res.next;
             }
