@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBatis-01-test/MyBatis-01-test.iml" filepath="$PROJECT_DIR$/MyBatis-01-test/MyBatis-01-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cdoe_1418Display Table of Food Orders in a Restaurant/cdoe_1418Display Table of Food Orders in a Restaurant.iml" filepath="$PROJECT_DIR$/cdoe_1418Display Table of Food Orders in a Restaurant/cdoe_1418Display Table of Food Orders in a Restaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1002Find Common Characters/code_1002Find Common Characters.iml" filepath="$PROJECT_DIR$/code_1002Find Common Characters/code_1002Find Common Characters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1004Max Consecutive Ones III/code_1004Max Consecutive Ones III.iml" filepath="$PROJECT_DIR$/code_1004Max Consecutive Ones III/code_1004Max Consecutive Ones III.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_100Same Tree/code_100Same Tree.iml" filepath="$PROJECT_DIR$/code_100Same Tree/code_100Same Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1014Best Sightseeing Pair/code_1014Best Sightseeing Pair.iml" filepath="$PROJECT_DIR$/code_1014Best Sightseeing Pair/code_1014Best Sightseeing Pair.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1019Next Greater Node/code_1019Next Greater Node.iml" filepath="$PROJECT_DIR$/code_1019Next Greater Node/code_1019Next Greater Node.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_101Symmetric Tree/code_101Symmetric Tree.iml" filepath="$PROJECT_DIR$/code_101Symmetric Tree/code_101Symmetric Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1021Remove Outermost Parentheses/code_1021Remove Outermost Parentheses.iml" filepath="$PROJECT_DIR$/code_1021Remove Outermost Parentheses/code_1021Remove Outermost Parentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1024Video Stitching/code_1024Video Stitching.iml" filepath="$PROJECT_DIR$/code_1024Video Stitching/code_1024Video Stitching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1025Divisor Game/code_1025Divisor Game.iml" filepath="$PROJECT_DIR$/code_1025Divisor Game/code_1025Divisor Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1030Matrix Cells/code_1030Matrix Cells.iml" filepath="$PROJECT_DIR$/code_1030Matrix Cells/code_1030Matrix Cells.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_103Binary Tree Zigzag Level Order Traversal/code_103Binary Tree Zigzag Level Order Traversal.iml" filepath="$PROJECT_DIR$/code_103Binary Tree Zigzag Level Order Traversal/code_103Binary Tree Zigzag Level Order Traversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1047Remove All Adjacent/code_1047Remove All Adjacent.iml" filepath="$PROJECT_DIR$/code_1047Remove All Adjacent/code_1047Remove All Adjacent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_104Maximum Depth of Binary Tree/code_104Maximum Depth of Binary Tree.iml" filepath="$PROJECT_DIR$/code_104Maximum Depth of Binary Tree/code_104Maximum Depth of Binary Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_105Construct Binary Tree from Preorder/code_105Construct Binary Tree from Preorder.iml" filepath="$PROJECT_DIR$/code_105Construct Binary Tree from Preorder/code_105Construct Binary Tree from Preorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_106Construct Binary Tree/code_106Construct Binary Tree.iml" filepath="$PROJECT_DIR$/code_106Construct Binary Tree/code_106Construct Binary Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_107Binary Tree Level/code_107Binary Tree Level.iml" filepath="$PROJECT_DIR$/code_107Binary Tree Level/code_107Binary Tree Level.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1081Smallest Subsequence of/code_1081Smallest Subsequence of.iml" filepath="$PROJECT_DIR$/code_1081Smallest Subsequence of/code_1081Smallest Subsequence of.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_109ortedListToBST/code_109ortedListToBST.iml" filepath="$PROJECT_DIR$/code_109ortedListToBST/code_109ortedListToBST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_10Regular Expression Matching/code_10Regular Expression Matching.iml" filepath="$PROJECT_DIR$/code_10Regular Expression Matching/code_10Regular Expression Matching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1109Corporate Flight Bookings/code_1109Corporate Flight Bookings.iml" filepath="$PROJECT_DIR$/code_1109Corporate Flight Bookings/code_1109Corporate Flight Bookings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_110Balanced Binary Tree/code_110Balanced Binary Tree.iml" filepath="$PROJECT_DIR$/code_110Balanced Binary Tree/code_110Balanced Binary Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_111Minimum Depth of Binary Tree/code_111Minimum Depth of Binary Tree.iml" filepath="$PROJECT_DIR$/code_111Minimum Depth of Binary Tree/code_111Minimum Depth of Binary Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1122Relative Sort Array/code_1122Relative Sort Array.iml" filepath="$PROJECT_DIR$/code_1122Relative Sort Array/code_1122Relative Sort Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1143Longest Common Subsequence/code_1143Longest Common Subsequence.iml" filepath="$PROJECT_DIR$/code_1143Longest Common Subsequence/code_1143Longest Common Subsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_114Flatten Binary Tree to Linked List/code_114Flatten Binary Tree to Linked List.iml" filepath="$PROJECT_DIR$/code_114Flatten Binary Tree to Linked List/code_114Flatten Binary Tree to Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_116Populating Next Right Pointers/code_116Populating Next Right Pointers.iml" filepath="$PROJECT_DIR$/code_116Populating Next Right Pointers/code_116Populating Next Right Pointers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_117Populating Next/code_117Populating Next.iml" filepath="$PROJECT_DIR$/code_117Populating Next/code_117Populating Next.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_119Pascal's Triangle II/code_119Pascal's Triangle II.iml" filepath="$PROJECT_DIR$/code_119Pascal's Triangle II/code_119Pascal's Triangle II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_11Container With Most Water/code_11Container With Most Water.iml" filepath="$PROJECT_DIR$/code_11Container With Most Water/code_11Container With Most Water.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1207Unique Number of Occurrences/code_1207Unique Number of Occurrences.iml" filepath="$PROJECT_DIR$/code_1207Unique Number of Occurrences/code_1207Unique Number of Occurrences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1208Get Equal Substrings Within Budget/code_1208Get Equal Substrings Within Budget.iml" filepath="$PROJECT_DIR$/code_1208Get Equal Substrings Within Budget/code_1208Get Equal Substrings Within Budget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_120Triangle/code_120Triangle.iml" filepath="$PROJECT_DIR$/code_120Triangle/code_120Triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_121Best Time to Buy and Sell Stock/code_121Best Time to Buy and Sell Stock.iml" filepath="$PROJECT_DIR$/code_121Best Time to Buy and Sell Stock/code_121Best Time to Buy and Sell Stock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1227Airplane Seat/code_1227Airplane Seat.iml" filepath="$PROJECT_DIR$/code_1227Airplane Seat/code_1227Airplane Seat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_122Best Time to Buy and Sell Stock II/code_122Best Time to Buy and Sell Stock II.iml" filepath="$PROJECT_DIR$/code_122Best Time to Buy and Sell Stock II/code_122Best Time to Buy and Sell Stock II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1232Check If It Is a Straight Line/code_1232Check If It Is a Straight Line.iml" filepath="$PROJECT_DIR$/code_1232Check If It Is a Straight Line/code_1232Check If It Is a Straight Line.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1249Minimum Remove to Make/code_1249Minimum Remove to Make.iml" filepath="$PROJECT_DIR$/code_1249Minimum Remove to Make/code_1249Minimum Remove to Make.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_125.Valid Palindrome/code_125.Valid Palindrome.iml" filepath="$PROJECT_DIR$/code_125.Valid Palindrome/code_125.Valid Palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1277Count Square Submatrices with All Ones/code_1277Count Square Submatrices with All Ones.iml" filepath="$PROJECT_DIR$/code_1277Count Square Submatrices with All Ones/code_1277Count Square Submatrices with All Ones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_127Word Ladder/code_127Word Ladder.iml" filepath="$PROJECT_DIR$/code_127Word Ladder/code_127Word Ladder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1290 Convert Binary Number in a Linked/code_1290 Convert Binary Number in a Linked.iml" filepath="$PROJECT_DIR$/code_1290 Convert Binary Number in a Linked/code_1290 Convert Binary Number in a Linked.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1292Maximum Side Length/code_1292Maximum Side Length.iml" filepath="$PROJECT_DIR$/code_1292Maximum Side Length/code_1292Maximum Side Length.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_129Sum Root to Leaf Numbers/code_129Sum Root to Leaf Numbers.iml" filepath="$PROJECT_DIR$/code_129Sum Root to Leaf Numbers/code_129Sum Root to Leaf Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_12Integer to Roman/code_12Integer to Roman.iml" filepath="$PROJECT_DIR$/code_12Integer to Roman/code_12Integer to Roman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1300Sum of Mutated Array Closest to Target/code_1300Sum of Mutated Array Closest to Target.iml" filepath="$PROJECT_DIR$/code_1300Sum of Mutated Array Closest to Target/code_1300Sum of Mutated Array Closest to Target.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_130Surrounded Regions/code_130Surrounded Regions.iml" filepath="$PROJECT_DIR$/code_130Surrounded Regions/code_130Surrounded Regions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1314Matrix Block Sum/code_1314Matrix Block Sum.iml" filepath="$PROJECT_DIR$/code_1314Matrix Block Sum/code_1314Matrix Block Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1323Maximum 69 Number/code_1323Maximum 69 Number.iml" filepath="$PROJECT_DIR$/code_1323Maximum 69 Number/code_1323Maximum 69 Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_133Clone Graph/code_133Clone Graph.iml" filepath="$PROJECT_DIR$/code_133Clone Graph/code_133Clone Graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_134Gas Station/code_134Gas Station.iml" filepath="$PROJECT_DIR$/code_134Gas Station/code_134Gas Station.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1356Sort Integers by/code_1356Sort Integers by.iml" filepath="$PROJECT_DIR$/code_1356Sort Integers by/code_1356Sort Integers by.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1365How Many Numbers/code_1365How Many Numbers.iml" filepath="$PROJECT_DIR$/code_1365How Many Numbers/code_1365How Many Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_136Single Number/code_136Single Number.iml" filepath="$PROJECT_DIR$/code_136Single Number/code_136Single Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_137Single Number II/code_137Single Number II.iml" filepath="$PROJECT_DIR$/code_137Single Number II/code_137Single Number II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_138Copy List with Random Pointer/code_138Copy List with Random Pointer.iml" filepath="$PROJECT_DIR$/code_138Copy List with Random Pointer/code_138Copy List with Random Pointer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_139Word Break/code_139Word Break.iml" filepath="$PROJECT_DIR$/code_139Word Break/code_139Word Break.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_13Roman to Integer/code_13Roman to Integer.iml" filepath="$PROJECT_DIR$/code_13Roman to Integer/code_13Roman to Integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1402Reducing Dishes/code_1402Reducing Dishes.iml" filepath="$PROJECT_DIR$/code_1402Reducing Dishes/code_1402Reducing Dishes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_140Word Break II/code_140Word Break II.iml" filepath="$PROJECT_DIR$/code_140Word Break II/code_140Word Break II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_141Linked List Cycle/code_141Linked List Cycle.iml" filepath="$PROJECT_DIR$/code_141Linked List Cycle/code_141Linked List Cycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1423Points You Can Obtain from Cards/code_1423Points You Can Obtain from Cards.iml" filepath="$PROJECT_DIR$/code_1423Points You Can Obtain from Cards/code_1423Points You Can Obtain from Cards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_142Linked List Cycle II/code_142Linked List Cycle II.iml" filepath="$PROJECT_DIR$/code_142Linked List Cycle II/code_142Linked List Cycle II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_143Reorder List/code_143Reorder List.iml" filepath="$PROJECT_DIR$/code_143Reorder List/code_143Reorder List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1441Build an Array With/code_1441Build an Array With.iml" filepath="$PROJECT_DIR$/code_1441Build an Array With/code_1441Build an Array With.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_144Binary Tree Preorder Traversal/code_144Binary Tree Preorder Traversal.iml" filepath="$PROJECT_DIR$/code_144Binary Tree Preorder Traversal/code_144Binary Tree Preorder Traversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_145Binary Tree Postorder Traversal/code_145Binary Tree Postorder Traversal.iml" filepath="$PROJECT_DIR$/code_145Binary Tree Postorder Traversal/code_145Binary Tree Postorder Traversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_147Insertion Sort List/code_147Insertion Sort List.iml" filepath="$PROJECT_DIR$/code_147Insertion Sort List/code_147Insertion Sort List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_148Sort List/code_148Sort List.iml" filepath="$PROJECT_DIR$/code_148Sort List/code_148Sort List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_149Max Points on a Line/code_149Max Points on a Line.iml" filepath="$PROJECT_DIR$/code_149Max Points on a Line/code_149Max Points on a Line.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_150Evaluate Reverse Polish Notation/code_150Evaluate Reverse Polish Notation.iml" filepath="$PROJECT_DIR$/code_150Evaluate Reverse Polish Notation/code_150Evaluate Reverse Polish Notation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_153Find Minimum in Rotated Sorted Array/code_153Find Minimum in Rotated Sorted Array.iml" filepath="$PROJECT_DIR$/code_153Find Minimum in Rotated Sorted Array/code_153Find Minimum in Rotated Sorted Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_153Sum/code_153Sum.iml" filepath="$PROJECT_DIR$/code_153Sum/code_153Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_154Find Minimum in Rotated Sorted Array II/code_154Find Minimum in Rotated Sorted Array II.iml" filepath="$PROJECT_DIR$/code_154Find Minimum in Rotated Sorted Array II/code_154Find Minimum in Rotated Sorted Array II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_155Min Stack/code_155Min Stack.iml" filepath="$PROJECT_DIR$/code_155Min Stack/code_155Min Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1584Min Cost to Connect All Points/code_1584Min Cost to Connect All Points.iml" filepath="$PROJECT_DIR$/code_1584Min Cost to Connect All Points/code_1584Min Cost to Connect All Points.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_15_3Sum/code_15_3Sum.iml" filepath="$PROJECT_DIR$/code_15_3Sum/code_15_3Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_160Intersection of Two Linked Lists/code_160Intersection of Two Linked Lists.iml" filepath="$PROJECT_DIR$/code_160Intersection of Two Linked Lists/code_160Intersection of Two Linked Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_162Find Peak Element/code_162Find Peak Element.iml" filepath="$PROJECT_DIR$/code_162Find Peak Element/code_162Find Peak Element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_163Sum Closest/code_163Sum Closest.iml" filepath="$PROJECT_DIR$/code_163Sum Closest/code_163Sum Closest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_167Two Sum II/code_167Two Sum II.iml" filepath="$PROJECT_DIR$/code_167Two Sum II/code_167Two Sum II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_169Majority Element/code_169Majority Element.iml" filepath="$PROJECT_DIR$/code_169Majority Element/code_169Majority Element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_16Sum Closest/code_16Sum Closest.iml" filepath="$PROJECT_DIR$/code_16Sum Closest/code_16Sum Closest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_172Factorial Trailing Zeroes/code_172Factorial Trailing Zeroes.iml" filepath="$PROJECT_DIR$/code_172Factorial Trailing Zeroes/code_172Factorial Trailing Zeroes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_17Letter Combinations of a Phone Number/code_17Letter Combinations of a Phone Number.iml" filepath="$PROJECT_DIR$/code_17Letter Combinations of a Phone Number/code_17Letter Combinations of a Phone Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_189Rotate Array/code_189Rotate Array.iml" filepath="$PROJECT_DIR$/code_189Rotate Array/code_189Rotate Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_18_4Sum/code_18_4Sum.iml" filepath="$PROJECT_DIR$/code_18_4Sum/code_18_4Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_191Number of 1 Bits/code_191Number of 1 Bits.iml" filepath="$PROJECT_DIR$/code_191Number of 1 Bits/code_191Number of 1 Bits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_198House Robber/code_198House Robber.iml" filepath="$PROJECT_DIR$/code_198House Robber/code_198House Robber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_19Remove Nth Node From/code_19Remove Nth Node From.iml" filepath="$PROJECT_DIR$/code_19Remove Nth Node From/code_19Remove Nth Node From.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_1Two Sum/code_1Two Sum.iml" filepath="$PROJECT_DIR$/code_1Two Sum/code_1Two Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_201Bitwise AND of Numbers Range/code_201Bitwise AND of Numbers Range.iml" filepath="$PROJECT_DIR$/code_201Bitwise AND of Numbers Range/code_201Bitwise AND of Numbers Range.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_202Happy Number/code_202Happy Number.iml" filepath="$PROJECT_DIR$/code_202Happy Number/code_202Happy Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_203Remove Linked List Elements/code_203Remove Linked List Elements.iml" filepath="$PROJECT_DIR$/code_203Remove Linked List Elements/code_203Remove Linked List Elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_204Count Primes/code_204Count Primes.iml" filepath="$PROJECT_DIR$/code_204Count Primes/code_204Count Primes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_205Isomorphic Strings/code_205Isomorphic Strings.iml" filepath="$PROJECT_DIR$/code_205Isomorphic Strings/code_205Isomorphic Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_206Reverse Linked List/code_206Reverse Linked List.iml" filepath="$PROJECT_DIR$/code_206Reverse Linked List/code_206Reverse Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_207Course Schedule/code_207Course Schedule.iml" filepath="$PROJECT_DIR$/code_207Course Schedule/code_207Course Schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_209Minimum Size Subarray Sum/code_209Minimum Size Subarray Sum.iml" filepath="$PROJECT_DIR$/code_209Minimum Size Subarray Sum/code_209Minimum Size Subarray Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_20Valid Parentheses/code_20Valid Parentheses.iml" filepath="$PROJECT_DIR$/code_20Valid Parentheses/code_20Valid Parentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_213House Robber II/code_213House Robber II.iml" filepath="$PROJECT_DIR$/code_213House Robber II/code_213House Robber II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_214Shortest Palindrome/code_214Shortest Palindrome.iml" filepath="$PROJECT_DIR$/code_214Shortest Palindrome/code_214Shortest Palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_215Kth Largest Element in an Array/code_215Kth Largest Element in an Array.iml" filepath="$PROJECT_DIR$/code_215Kth Largest Element in an Array/code_215Kth Largest Element in an Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_216Combination Sum III/code_216Combination Sum III.iml" filepath="$PROJECT_DIR$/code_216Combination Sum III/code_216Combination Sum III.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_21Merge Two Sorted Lists/code_21Merge Two Sorted Lists.iml" filepath="$PROJECT_DIR$/code_21Merge Two Sorted Lists/code_21Merge Two Sorted Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_221Maximal Square/code_221Maximal Square.iml" filepath="$PROJECT_DIR$/code_221Maximal Square/code_221Maximal Square.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_222Count Complete Tree Nodes/code_222Count Complete Tree Nodes.iml" filepath="$PROJECT_DIR$/code_222Count Complete Tree Nodes/code_222Count Complete Tree Nodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_224Basic Calculator/code_224Basic Calculator.iml" filepath="$PROJECT_DIR$/code_224Basic Calculator/code_224Basic Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_225Implement Stack using Queues/code_225Implement Stack using Queues.iml" filepath="$PROJECT_DIR$/code_225Implement Stack using Queues/code_225Implement Stack using Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_226Invert Binary Tree/code_226Invert Binary Tree.iml" filepath="$PROJECT_DIR$/code_226Invert Binary Tree/code_226Invert Binary Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_22Generate Parentheses/code_22Generate Parentheses.iml" filepath="$PROJECT_DIR$/code_22Generate Parentheses/code_22Generate Parentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_231Power of Two/code_231Power of Two.iml" filepath="$PROJECT_DIR$/code_231Power of Two/code_231Power of Two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_232Implement Queue using Stacks/code_232Implement Queue using Stacks.iml" filepath="$PROJECT_DIR$/code_232Implement Queue using Stacks/code_232Implement Queue using Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_233. Number of Digit One/code_233. Number of Digit One.iml" filepath="$PROJECT_DIR$/code_233. Number of Digit One/code_233. Number of Digit One.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_234Palindrome Linked List/code_234Palindrome Linked List.iml" filepath="$PROJECT_DIR$/code_234Palindrome Linked List/code_234Palindrome Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_239Sliding Window Maximum/code_239Sliding Window Maximum.iml" filepath="$PROJECT_DIR$/code_239Sliding Window Maximum/code_239Sliding Window Maximum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_23Merge k Sorted Lists/code_23Merge k Sorted Lists.iml" filepath="$PROJECT_DIR$/code_23Merge k Sorted Lists/code_23Merge k Sorted Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_24Swap Nodes in Pairs/code_24Swap Nodes in Pairs.iml" filepath="$PROJECT_DIR$/code_24Swap Nodes in Pairs/code_24Swap Nodes in Pairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_25Reverse Nodes in k-Group/code_25Reverse Nodes in k-Group.iml" filepath="$PROJECT_DIR$/code_25Reverse Nodes in k-Group/code_25Reverse Nodes in k-Group.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_268Missing Number/code_268Missing Number.iml" filepath="$PROJECT_DIR$/code_268Missing Number/code_268Missing Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_26Remove Duplicates from Sorted Array/code_26Remove Duplicates from Sorted Array.iml" filepath="$PROJECT_DIR$/code_26Remove Duplicates from Sorted Array/code_26Remove Duplicates from Sorted Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_278First Bad Version/code_278First Bad Version.iml" filepath="$PROJECT_DIR$/code_278First Bad Version/code_278First Bad Version.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_27Remove Element/code_27Remove Element.iml" filepath="$PROJECT_DIR$/code_27Remove Element/code_27Remove Element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_283Move Zeroes/code_283Move Zeroes.iml" filepath="$PROJECT_DIR$/code_283Move Zeroes/code_283Move Zeroes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_287Find the Duplicate Number/code_287Find the Duplicate Number.iml" filepath="$PROJECT_DIR$/code_287Find the Duplicate Number/code_287Find the Duplicate Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_289Game of Life/code_289Game of Life.iml" filepath="$PROJECT_DIR$/code_289Game of Life/code_289Game of Life.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_28Implement strStr()/code_28Implement strStr().iml" filepath="$PROJECT_DIR$/code_28Implement strStr()/code_28Implement strStr().iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_290Word Pattern/code_290Word Pattern.iml" filepath="$PROJECT_DIR$/code_290Word Pattern/code_290Word Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_292Nim Game/code_292Nim Game.iml" filepath="$PROJECT_DIR$/code_292Nim Game/code_292Nim Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_295Find Median from Data Stream/code_295Find Median from Data Stream.iml" filepath="$PROJECT_DIR$/code_295Find Median from Data Stream/code_295Find Median from Data Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_297Serialize and Deserialize/code_297Serialize and Deserialize.iml" filepath="$PROJECT_DIR$/code_297Serialize and Deserialize/code_297Serialize and Deserialize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_29Divide Two Integers/code_29Divide Two Integers.iml" filepath="$PROJECT_DIR$/code_29Divide Two Integers/code_29Divide Two Integers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_2Add Two Numbers/code_2Add Two Numbers.iml" filepath="$PROJECT_DIR$/code_2Add Two Numbers/code_2Add Two Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_300Longest Increasing Subsequence/code_300Longest Increasing Subsequence.iml" filepath="$PROJECT_DIR$/code_300Longest Increasing Subsequence/code_300Longest Increasing Subsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_30with Concatenation of All Words/code_30with Concatenation of All Words.iml" filepath="$PROJECT_DIR$/code_30with Concatenation of All Words/code_30with Concatenation of All Words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_312Burst Balloons/code_312Burst Balloons.iml" filepath="$PROJECT_DIR$/code_312Burst Balloons/code_312Burst Balloons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_316Remove Duplicate Letters/code_316Remove Duplicate Letters.iml" filepath="$PROJECT_DIR$/code_316Remove Duplicate Letters/code_316Remove Duplicate Letters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_319Bulb Switcher/code_319Bulb Switcher.iml" filepath="$PROJECT_DIR$/code_319Bulb Switcher/code_319Bulb Switcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_31Next Permutation/code_31Next Permutation.iml" filepath="$PROJECT_DIR$/code_31Next Permutation/code_31Next Permutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_322Coin Change/code_322Coin Change.iml" filepath="$PROJECT_DIR$/code_322Coin Change/code_322Coin Change.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_326Power of Three/code_326Power of Three.iml" filepath="$PROJECT_DIR$/code_326Power of Three/code_326Power of Three.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_327Count of Range Sum/code_327Count of Range Sum.iml" filepath="$PROJECT_DIR$/code_327Count of Range Sum/code_327Count of Range Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_328Odd Even Linked List/code_328Odd Even Linked List.iml" filepath="$PROJECT_DIR$/code_328Odd Even Linked List/code_328Odd Even Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_32Longest Valid Parentheses/code_32Longest Valid Parentheses.iml" filepath="$PROJECT_DIR$/code_32Longest Valid Parentheses/code_32Longest Valid Parentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_332Reconstruct Itinerary/code_332Reconstruct Itinerary.iml" filepath="$PROJECT_DIR$/code_332Reconstruct Itinerary/code_332Reconstruct Itinerary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_336Palindrome Pairs/code_336Palindrome Pairs.iml" filepath="$PROJECT_DIR$/code_336Palindrome Pairs/code_336Palindrome Pairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_337House Robber III/code_337House Robber III.iml" filepath="$PROJECT_DIR$/code_337House Robber III/code_337House Robber III.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_338Counting Bits/code_338Counting Bits.iml" filepath="$PROJECT_DIR$/code_338Counting Bits/code_338Counting Bits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_342Power of Four/code_342Power of Four.iml" filepath="$PROJECT_DIR$/code_342Power of Four/code_342Power of Four.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_343Integer Break/code_343Integer Break.iml" filepath="$PROJECT_DIR$/code_343Integer Break/code_343Integer Break.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_344Reverse String/code_344Reverse String.iml" filepath="$PROJECT_DIR$/code_344Reverse String/code_344Reverse String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_349Intersection of Two Arrays/code_349Intersection of Two Arrays.iml" filepath="$PROJECT_DIR$/code_349Intersection of Two Arrays/code_349Intersection of Two Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_34Find First and Last Position of Element in Sorted Array/code_34Find First and Last Position of Element in Sorted Array.iml" filepath="$PROJECT_DIR$/code_34Find First and Last Position of Element in Sorted Array/code_34Find First and Last Position of Element in Sorted Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_350Intersection of Two Arrays II/code_350Intersection of Two Arrays II.iml" filepath="$PROJECT_DIR$/code_350Intersection of Two Arrays II/code_350Intersection of Two Arrays II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_35Search Insert Position/code_35Search Insert Position.iml" filepath="$PROJECT_DIR$/code_35Search Insert Position/code_35Search Insert Position.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_36Valid Sudoku/code_36Valid Sudoku.iml" filepath="$PROJECT_DIR$/code_36Valid Sudoku/code_36Valid Sudoku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_377Combination Sum IV/code_377Combination Sum IV.iml" filepath="$PROJECT_DIR$/code_377Combination Sum IV/code_377Combination Sum IV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_37Sudoku Solver/code_37Sudoku Solver.iml" filepath="$PROJECT_DIR$/code_37Sudoku Solver/code_37Sudoku Solver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_380Insert Delete GetRandom O(1)/code_380Insert Delete GetRandom O(1).iml" filepath="$PROJECT_DIR$/code_380Insert Delete GetRandom O(1)/code_380Insert Delete GetRandom O(1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_381Insert Delete GetRandom O(1)/code_381Insert Delete GetRandom O(1).iml" filepath="$PROJECT_DIR$/code_381Insert Delete GetRandom O(1)/code_381Insert Delete GetRandom O(1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_383Ransom Note/code_383Ransom Note.iml" filepath="$PROJECT_DIR$/code_383Ransom Note/code_383Ransom Note.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_38Count and Say/code_38Count and Say.iml" filepath="$PROJECT_DIR$/code_38Count and Say/code_38Count and Say.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_392Is Subsequence/code_392Is Subsequence.iml" filepath="$PROJECT_DIR$/code_392Is Subsequence/code_392Is Subsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_394Decode String/code_394Decode String.iml" filepath="$PROJECT_DIR$/code_394Decode String/code_394Decode String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_395Longest  At Least K Repeating Characters/code_395Longest  At Least K Repeating Characters.iml" filepath="$PROJECT_DIR$/code_395Longest  At Least K Repeating Characters/code_395Longest  At Least K Repeating Characters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_39Combination Sum/code_39Combination Sum.iml" filepath="$PROJECT_DIR$/code_39Combination Sum/code_39Combination Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_3Longest Substring Without Repeating Characters/code_3Longest Substring Without Repeating Characters.iml" filepath="$PROJECT_DIR$/code_3Longest Substring Without Repeating Characters/code_3Longest Substring Without Repeating Characters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_402Remove K Digits/code_402Remove K Digits.iml" filepath="$PROJECT_DIR$/code_402Remove K Digits/code_402Remove K Digits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_406Queue Reconstruction/code_406Queue Reconstruction.iml" filepath="$PROJECT_DIR$/code_406Queue Reconstruction/code_406Queue Reconstruction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_40Combination Sum II/code_40Combination Sum II.iml" filepath="$PROJECT_DIR$/code_40Combination Sum II/code_40Combination Sum II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_415Add Strings/code_415Add Strings.iml" filepath="$PROJECT_DIR$/code_415Add Strings/code_415Add Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_416Partition Equal Subset Sum/code_416Partition Equal Subset Sum.iml" filepath="$PROJECT_DIR$/code_416Partition Equal Subset Sum/code_416Partition Equal Subset Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_42Trapping Rain Water/code_42Trapping Rain Water.iml" filepath="$PROJECT_DIR$/code_42Trapping Rain Water/code_42Trapping Rain Water.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_438Find All Anagrams in a String/code_438Find All Anagrams in a String.iml" filepath="$PROJECT_DIR$/code_438Find All Anagrams in a String/code_438Find All Anagrams in a String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_43Multiply Strings/code_43Multiply Strings.iml" filepath="$PROJECT_DIR$/code_43Multiply Strings/code_43Multiply Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_445Add Two Numbers II/code_445Add Two Numbers II.iml" filepath="$PROJECT_DIR$/code_445Add Two Numbers II/code_445Add Two Numbers II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_448Numbers Disappeared in an Array/code_448Numbers Disappeared in an Array.iml" filepath="$PROJECT_DIR$/code_448Numbers Disappeared in an Array/code_448Numbers Disappeared in an Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_450Delete Node in a BST/code_450Delete Node in a BST.iml" filepath="$PROJECT_DIR$/code_450Delete Node in a BST/code_450Delete Node in a BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_451Sort Characters By Frequency/code_451Sort Characters By Frequency.iml" filepath="$PROJECT_DIR$/code_451Sort Characters By Frequency/code_451Sort Characters By Frequency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_452Minimum Number of Arrows to Burst Balloons/code_452Minimum Number of Arrows to Burst Balloons.iml" filepath="$PROJECT_DIR$/code_452Minimum Number of Arrows to Burst Balloons/code_452Minimum Number of Arrows to Burst Balloons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_455Assign Cookies/code_455Assign Cookies.iml" filepath="$PROJECT_DIR$/code_455Assign Cookies/code_455Assign Cookies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_459Repeated Substring Pattern/code_459Repeated Substring Pattern.iml" filepath="$PROJECT_DIR$/code_459Repeated Substring Pattern/code_459Repeated Substring Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_45Jump Game II/code_45Jump Game II.iml" filepath="$PROJECT_DIR$/code_45Jump Game II/code_45Jump Game II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_463Island Perimeter/code_463Island Perimeter.iml" filepath="$PROJECT_DIR$/code_463Island Perimeter/code_463Island Perimeter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_46Permutations/code_46Permutations.iml" filepath="$PROJECT_DIR$/code_46Permutations/code_46Permutations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_475Heaters/code_475Heaters.iml" filepath="$PROJECT_DIR$/code_475Heaters/code_475Heaters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_477Total Hamming Distance/code_477Total Hamming Distance.iml" filepath="$PROJECT_DIR$/code_477Total Hamming Distance/code_477Total Hamming Distance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_47Permutations II/code_47Permutations II.iml" filepath="$PROJECT_DIR$/code_47Permutations II/code_47Permutations II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_48Rotate Image/code_48Rotate Image.iml" filepath="$PROJECT_DIR$/code_48Rotate Image/code_48Rotate Image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_496Next Greater Element I/code_496Next Greater Element I.iml" filepath="$PROJECT_DIR$/code_496Next Greater Element I/code_496Next Greater Element I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_49Group Anagrams/code_49Group Anagrams.iml" filepath="$PROJECT_DIR$/code_49Group Anagrams/code_49Group Anagrams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_4Median of Two Sorted Arrays/code_4Median of Two Sorted Arrays.iml" filepath="$PROJECT_DIR$/code_4Median of Two Sorted Arrays/code_4Median of Two Sorted Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_503Next Greater Element II/code_503Next Greater Element II.iml" filepath="$PROJECT_DIR$/code_503Next Greater Element II/code_503Next Greater Element II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_50Pow(x, n)/code_50Pow(x, n).iml" filepath="$PROJECT_DIR$/code_50Pow(x, n)/code_50Pow(x, n).iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_51N-Queens/code_51N-Queens.iml" filepath="$PROJECT_DIR$/code_51N-Queens/code_51N-Queens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_52N-Queens II/code_52N-Queens II.iml" filepath="$PROJECT_DIR$/code_52N-Queens II/code_52N-Queens II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_530Minimum Absolute Difference in BST/code_530Minimum Absolute Difference in BST.iml" filepath="$PROJECT_DIR$/code_530Minimum Absolute Difference in BST/code_530Minimum Absolute Difference in BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_538Convert BST to Greater Tree/code_538Convert BST to Greater Tree.iml" filepath="$PROJECT_DIR$/code_538Convert BST to Greater Tree/code_538Convert BST to Greater Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_53Maximum Subarray/code_53Maximum Subarray.iml" filepath="$PROJECT_DIR$/code_53Maximum Subarray/code_53Maximum Subarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_540Single Element in a Sorted Array/code_540Single Element in a Sorted Array.iml" filepath="$PROJECT_DIR$/code_540Single Element in a Sorted Array/code_540Single Element in a Sorted Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_546Remove Boxes/code_546Remove Boxes.iml" filepath="$PROJECT_DIR$/code_546Remove Boxes/code_546Remove Boxes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_54Spiral Matrix/code_54Spiral Matrix.iml" filepath="$PROJECT_DIR$/code_54Spiral Matrix/code_54Spiral Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_556Next Greater Element III/code_556Next Greater Element III.iml" filepath="$PROJECT_DIR$/code_556Next Greater Element III/code_556Next Greater Element III.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_55Jump Game/code_55Jump Game.iml" filepath="$PROJECT_DIR$/code_55Jump Game/code_55Jump Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_560Subarray Sum Equals K/code_560Subarray Sum Equals K.iml" filepath="$PROJECT_DIR$/code_560Subarray Sum Equals K/code_560Subarray Sum Equals K.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_561Array Partition I/code_561Array Partition I.iml" filepath="$PROJECT_DIR$/code_561Array Partition I/code_561Array Partition I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_566Reshape the Matrix/code_566Reshape the Matrix.iml" filepath="$PROJECT_DIR$/code_566Reshape the Matrix/code_566Reshape the Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_567Permutation in String/code_567Permutation in String.iml" filepath="$PROJECT_DIR$/code_567Permutation in String/code_567Permutation in String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_56Merge Intervals/code_56Merge Intervals.iml" filepath="$PROJECT_DIR$/code_56Merge Intervals/code_56Merge Intervals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_57_mian_findContinuousSequence/code_57_mian_findContinuousSequence.iml" filepath="$PROJECT_DIR$/code_57_mian_findContinuousSequence/code_57_mian_findContinuousSequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_58Length of Last Word/code_58Length of Last Word.iml" filepath="$PROJECT_DIR$/code_58Length of Last Word/code_58Length of Last Word.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_5Longest Palindromic Substring/code_5Longest Palindromic Substring.iml" filepath="$PROJECT_DIR$/code_5Longest Palindromic Substring/code_5Longest Palindromic Substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_60Permutation Sequence/code_60Permutation Sequence.iml" filepath="$PROJECT_DIR$/code_60Permutation Sequence/code_60Permutation Sequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_611Valid Triangle Number/code_611Valid Triangle Number.iml" filepath="$PROJECT_DIR$/code_611Valid Triangle Number/code_611Valid Triangle Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_61Rotate List/code_61Rotate List.iml" filepath="$PROJECT_DIR$/code_61Rotate List/code_61Rotate List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_628Maximum Product of Three Numbers/code_628Maximum Product of Three Numbers.iml" filepath="$PROJECT_DIR$/code_628Maximum Product of Three Numbers/code_628Maximum Product of Three Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_62Unique Paths/code_62Unique Paths.iml" filepath="$PROJECT_DIR$/code_62Unique Paths/code_62Unique Paths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_632Smallest Range Covering/code_632Smallest Range Covering.iml" filepath="$PROJECT_DIR$/code_632Smallest Range Covering/code_632Smallest Range Covering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_636Exclusive Time of Functions/code_636Exclusive Time of Functions.iml" filepath="$PROJECT_DIR$/code_636Exclusive Time of Functions/code_636Exclusive Time of Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_637Average of Levels in/code_637Average of Levels in.iml" filepath="$PROJECT_DIR$/code_637Average of Levels in/code_637Average of Levels in.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_643Maximum Average Subarray I/code_643Maximum Average Subarray I.iml" filepath="$PROJECT_DIR$/code_643Maximum Average Subarray I/code_643Maximum Average Subarray I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_647Palindromic Substrings/code_647Palindromic Substrings.iml" filepath="$PROJECT_DIR$/code_647Palindromic Substrings/code_647Palindromic Substrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_64Minimum Path Sum/code_64Minimum Path Sum.iml" filepath="$PROJECT_DIR$/code_64Minimum Path Sum/code_64Minimum Path Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_651four key/code_651four key.iml" filepath="$PROJECT_DIR$/code_651four key/code_651four key.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_652Find Duplicate Subtrees/code_652Find Duplicate Subtrees.iml" filepath="$PROJECT_DIR$/code_652Find Duplicate Subtrees/code_652Find Duplicate Subtrees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_654Maximum Binary Tree/code_654Maximum Binary Tree.iml" filepath="$PROJECT_DIR$/code_654Maximum Binary Tree/code_654Maximum Binary Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_657Robot Return to Origin/code_657Robot Return to Origin.iml" filepath="$PROJECT_DIR$/code_657Robot Return to Origin/code_657Robot Return to Origin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_661Image Smoother/code_661Image Smoother.iml" filepath="$PROJECT_DIR$/code_661Image Smoother/code_661Image Smoother.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_665Non-decreasing Array/code_665Non-decreasing Array.iml" filepath="$PROJECT_DIR$/code_665Non-decreasing Array/code_665Non-decreasing Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_66Plus One/code_66Plus One.iml" filepath="$PROJECT_DIR$/code_66Plus One/code_66Plus One.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_67924 Game/code_67924 Game.iml" filepath="$PROJECT_DIR$/code_67924 Game/code_67924 Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_67Add Binary/code_67Add Binary.iml" filepath="$PROJECT_DIR$/code_67Add Binary/code_67Add Binary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_682Baseball Game/code_682Baseball Game.iml" filepath="$PROJECT_DIR$/code_682Baseball Game/code_682Baseball Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_685Redundant/code_685Redundant.iml" filepath="$PROJECT_DIR$/code_685Redundant/code_685Redundant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_695Max Area of Island/code_695Max Area of Island.iml" filepath="$PROJECT_DIR$/code_695Max Area of Island/code_695Max Area of Island.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_696Count Binary Substrings/code_696Count Binary Substrings.iml" filepath="$PROJECT_DIR$/code_696Count Binary Substrings/code_696Count Binary Substrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_697Degree of an Array/code_697Degree of an Array.iml" filepath="$PROJECT_DIR$/code_697Degree of an Array/code_697Degree of an Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_69Sqrt(x)/code_69Sqrt(x).iml" filepath="$PROJECT_DIR$/code_69Sqrt(x)/code_69Sqrt(x).iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_6ZigZag Conversion/code_6ZigZag Conversion.iml" filepath="$PROJECT_DIR$/code_6ZigZag Conversion/code_6ZigZag Conversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_70.Climbing Stairs/code_70.Climbing Stairs.iml" filepath="$PROJECT_DIR$/code_70.Climbing Stairs/code_70.Climbing Stairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_700Search in a Binary Search Tree/code_700Search in a Binary Search Tree.iml" filepath="$PROJECT_DIR$/code_700Search in a Binary Search Tree/code_700Search in a Binary Search Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_703Largest Element in a Stream/code_703Largest Element in a Stream.iml" filepath="$PROJECT_DIR$/code_703Largest Element in a Stream/code_703Largest Element in a Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_704Binary Search/code_704Binary Search.iml" filepath="$PROJECT_DIR$/code_704Binary Search/code_704Binary Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_712Minimum ASCII Delete Sum/code_712Minimum ASCII Delete Sum.iml" filepath="$PROJECT_DIR$/code_712Minimum ASCII Delete Sum/code_712Minimum ASCII Delete Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_718Maximu Length of Repeated Subarray/code_718Maximu Length of Repeated Subarray.iml" filepath="$PROJECT_DIR$/code_718Maximu Length of Repeated Subarray/code_718Maximu Length of Repeated Subarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_71Simplify Path/code_71Simplify Path.iml" filepath="$PROJECT_DIR$/code_71Simplify Path/code_71Simplify Path.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_725Split Linked List in Parts/code_725Split Linked List in Parts.iml" filepath="$PROJECT_DIR$/code_725Split Linked List in Parts/code_725Split Linked List in Parts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_72Edit Distance/code_72Edit Distance.iml" filepath="$PROJECT_DIR$/code_72Edit Distance/code_72Edit Distance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_733Flood Fill/code_733Flood Fill.iml" filepath="$PROJECT_DIR$/code_733Flood Fill/code_733Flood Fill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_738Monotone Increasing Digits/code_738Monotone Increasing Digits.iml" filepath="$PROJECT_DIR$/code_738Monotone Increasing Digits/code_738Monotone Increasing Digits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_739Daily Temperatures/code_739Daily Temperatures.iml" filepath="$PROJECT_DIR$/code_739Daily Temperatures/code_739Daily Temperatures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_752Open the Lock/code_752Open the Lock.iml" filepath="$PROJECT_DIR$/code_752Open the Lock/code_752Open the Lock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_75Sort Colors/code_75Sort Colors.iml" filepath="$PROJECT_DIR$/code_75Sort Colors/code_75Sort Colors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_763Partition Labels/code_763Partition Labels.iml" filepath="$PROJECT_DIR$/code_763Partition Labels/code_763Partition Labels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_765Couples Holding Hands/code_765Couples Holding Hands.iml" filepath="$PROJECT_DIR$/code_765Couples Holding Hands/code_765Couples Holding Hands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_766Toeplitz Matrix/code_766Toeplitz Matrix.iml" filepath="$PROJECT_DIR$/code_766Toeplitz Matrix/code_766Toeplitz Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_767Reorganize String/code_767Reorganize String.iml" filepath="$PROJECT_DIR$/code_767Reorganize String/code_767Reorganize String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_76Minimum Window Substring/code_76Minimum Window Substring.iml" filepath="$PROJECT_DIR$/code_76Minimum Window Substring/code_76Minimum Window Substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_771Jewels and Stones/code_771Jewels and Stones.iml" filepath="$PROJECT_DIR$/code_771Jewels and Stones/code_771Jewels and Stones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_77Combinations/code_77Combinations.iml" filepath="$PROJECT_DIR$/code_77Combinations/code_77Combinations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_783Minimum Distance Between BST Nodes/code_783Minimum Distance Between BST Nodes.iml" filepath="$PROJECT_DIR$/code_783Minimum Distance Between BST Nodes/code_783Minimum Distance Between BST Nodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_785Is Graph Bipartite/code_785Is Graph Bipartite.iml" filepath="$PROJECT_DIR$/code_785Is Graph Bipartite/code_785Is Graph Bipartite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_796Rotate String/code_796Rotate String.iml" filepath="$PROJECT_DIR$/code_796Rotate String/code_796Rotate String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_7Reverse Integer/code_7Reverse Integer.iml" filepath="$PROJECT_DIR$/code_7Reverse Integer/code_7Reverse Integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_80Remove Duplicates from Sorted Array II/code_80Remove Duplicates from Sorted Array II.iml" filepath="$PROJECT_DIR$/code_80Remove Duplicates from Sorted Array II/code_80Remove Duplicates from Sorted Array II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_817Linked List Components/code_817Linked List Components.iml" filepath="$PROJECT_DIR$/code_817Linked List Components/code_817Linked List Components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_82Remove Duplicates from Sorted List II/code_82Remove Duplicates from Sorted List II.iml" filepath="$PROJECT_DIR$/code_82Remove Duplicates from Sorted List II/code_82Remove Duplicates from Sorted List II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_832Flipping an Image/code_832Flipping an Image.iml" filepath="$PROJECT_DIR$/code_832Flipping an Image/code_832Flipping an Image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_834Sum of Distances in Tree/code_834Sum of Distances in Tree.iml" filepath="$PROJECT_DIR$/code_834Sum of Distances in Tree/code_834Sum of Distances in Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_83Remove Duplicates from Sorted List/code_83Remove Duplicates from Sorted List.iml" filepath="$PROJECT_DIR$/code_83Remove Duplicates from Sorted List/code_83Remove Duplicates from Sorted List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_842Split Array into/code_842Split Array into.iml" filepath="$PROJECT_DIR$/code_842Split Array into/code_842Split Array into.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_844Backspace String Compare/code_844Backspace String Compare.iml" filepath="$PROJECT_DIR$/code_844Backspace String Compare/code_844Backspace String Compare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_845Longest mountain range in array/code_845Longest mountain range in array.iml" filepath="$PROJECT_DIR$/code_845Longest mountain range in array/code_845Longest mountain range in array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_84Largest Rectangle in Histogram/code_84Largest Rectangle in Histogram.iml" filepath="$PROJECT_DIR$/code_84Largest Rectangle in Histogram/code_84Largest Rectangle in Histogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_856Score of Parentheses/code_856Score of Parentheses.iml" filepath="$PROJECT_DIR$/code_856Score of Parentheses/code_856Score of Parentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_858Mirror Reflection/code_858Mirror Reflection.iml" filepath="$PROJECT_DIR$/code_858Mirror Reflection/code_858Mirror Reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_85Maximal Rectangle/code_85Maximal Rectangle.iml" filepath="$PROJECT_DIR$/code_85Maximal Rectangle/code_85Maximal Rectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_861Score After Flipping Matrix/code_861Score After Flipping Matrix.iml" filepath="$PROJECT_DIR$/code_861Score After Flipping Matrix/code_861Score After Flipping Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_875Koko Eating Bananas/code_875Koko Eating Bananas.iml" filepath="$PROJECT_DIR$/code_875Koko Eating Bananas/code_875Koko Eating Bananas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_876Middle of the Linked List/code_876Middle of the Linked List.iml" filepath="$PROJECT_DIR$/code_876Middle of the Linked List/code_876Middle of the Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_877Stone Game/code_877Stone Game.iml" filepath="$PROJECT_DIR$/code_877Stone Game/code_877Stone Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_88Merge Sorted Array/code_88Merge Sorted Array.iml" filepath="$PROJECT_DIR$/code_88Merge Sorted Array/code_88Merge Sorted Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_896. Monotonic Array/code_896. Monotonic Array.iml" filepath="$PROJECT_DIR$/code_896. Monotonic Array/code_896. Monotonic Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_8String to Integer/code_8String to Integer.iml" filepath="$PROJECT_DIR$/code_8String to Integer/code_8String to Integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_905Sort Array By Parity/code_905Sort Array By Parity.iml" filepath="$PROJECT_DIR$/code_905Sort Array By Parity/code_905Sort Array By Parity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_91Decode Ways/code_91Decode Ways.iml" filepath="$PROJECT_DIR$/code_91Decode Ways/code_91Decode Ways.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_921Minimum Add to/code_921Minimum Add to.iml" filepath="$PROJECT_DIR$/code_921Minimum Add to/code_921Minimum Add to.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_925Long Pressed Name/code_925Long Pressed Name.iml" filepath="$PROJECT_DIR$/code_925Long Pressed Name/code_925Long Pressed Name.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_92Reverse Linked List II/code_92Reverse Linked List II.iml" filepath="$PROJECT_DIR$/code_92Reverse Linked List II/code_92Reverse Linked List II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_93Restore IP Addresses/code_93Restore IP Addresses.iml" filepath="$PROJECT_DIR$/code_93Restore IP Addresses/code_93Restore IP Addresses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_941Valid Mountain Array/code_941Valid Mountain Array.iml" filepath="$PROJECT_DIR$/code_941Valid Mountain Array/code_941Valid Mountain Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_946Validate Stack Sequences/code_946Validate Stack Sequences.iml" filepath="$PROJECT_DIR$/code_946Validate Stack Sequences/code_946Validate Stack Sequences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_94Binary Tree Inorder Traversal/code_94Binary Tree Inorder Traversal.iml" filepath="$PROJECT_DIR$/code_94Binary Tree Inorder Traversal/code_94Binary Tree Inorder Traversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_95Unique Binary/code_95Unique Binary.iml" filepath="$PROJECT_DIR$/code_95Unique Binary/code_95Unique Binary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_96Unique Binary Search Trees/code_96Unique Binary Search Trees.iml" filepath="$PROJECT_DIR$/code_96Unique Binary Search Trees/code_96Unique Binary Search Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_977Squares of a Sorted Array/code_977Squares of a Sorted Array.iml" filepath="$PROJECT_DIR$/code_977Squares of a Sorted Array/code_977Squares of a Sorted Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_978Longest Turbulent Subarray/code_978Longest Turbulent Subarray.iml" filepath="$PROJECT_DIR$/code_978Longest Turbulent Subarray/code_978Longest Turbulent Subarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_97Interleaving String/code_97Interleaving String.iml" filepath="$PROJECT_DIR$/code_97Interleaving String/code_97Interleaving String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_98Validate Binary Search Tree/code_98Validate Binary Search Tree.iml" filepath="$PROJECT_DIR$/code_98Validate Binary Search Tree/code_98Validate Binary Search Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_99Recover Binary Search Tree/code_99Recover Binary Search Tree.iml" filepath="$PROJECT_DIR$/code_99Recover Binary Search Tree/code_99Recover Binary Search Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_9Palindrome Number/code_9Palindrome Number.iml" filepath="$PROJECT_DIR$/code_9Palindrome Number/code_9Palindrome Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_LCP 13find treasure/code_LCP 13find treasure.iml" filepath="$PROJECT_DIR$/code_LCP 13find treasure/code_LCP 13find treasure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_review_5.20/code_review_5.20.iml" filepath="$PROJECT_DIR$/code_review_5.20/code_review_5.20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cup_9.14/cup_9.14.iml" filepath="$PROJECT_DIR$/cup_9.14/cup_9.14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offer_code_05/offer_code_05.iml" filepath="$PROJECT_DIR$/offer_code_05/offer_code_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offer_code_06/offer_code_06.iml" filepath="$PROJECT_DIR$/offer_code_06/offer_code_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offer_code_08.03/offer_code_08.03.iml" filepath="$PROJECT_DIR$/offer_code_08.03/offer_code_08.03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offer_code_11/offer_code_11.iml" filepath="$PROJECT_DIR$/offer_code_11/offer_code_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offer_code_16.18Pattern Matching/offer_code_16.18Pattern Matching.iml" filepath="$PROJECT_DIR$/offer_code_16.18Pattern Matching/offer_code_16.18Pattern Matching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offer_code_8/offer_code_8.iml" filepath="$PROJECT_DIR$/offer_code_8/offer_code_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offer_code_LCOF/offer_code_LCOF.iml" filepath="$PROJECT_DIR$/offer_code_LCOF/offer_code_LCOF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offer_code_feribonaqie/offer_code_feribonaqie.iml" filepath="$PROJECT_DIR$/offer_code_feribonaqie/offer_code_feribonaqie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offer_code_nSum/offer_code_nSum.iml" filepath="$PROJECT_DIR$/offer_code_nSum/offer_code_nSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offer_code_vocation problem/offer_code_vocation problem.iml" filepath="$PROJECT_DIR$/offer_code_vocation problem/offer_code_vocation problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unknown_code_268Suma&amp;b/unknown_code_268Suma&amp;b.iml" filepath="$PROJECT_DIR$/unknown_code_268Suma&amp;b/unknown_code_268Suma&amp;b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled1/untitled1.iml" />
+    </modules>
+  </component>
+</project>

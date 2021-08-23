@@ -6,17 +6,23 @@ public class Solution2 {
     public class ListNode {
         int val;
         ListNode next;
-        ListNode(int x) { val = x; }
-    }
-    public ListNode removeNthFromEnd(ListNode head, int n){
-        ListNode pre=new ListNode(0);pre.next=head;
-        ListNode first=pre,tail=head;
-        while(tail.next!=null){
-            if(n<=1)
-                first=first.next;
-            tail=tail.next;n--;
+
+        ListNode(int x) {
+            val = x;
         }
-        first.next=first.next.next;
+    }
+
+    public ListNode removeNthFromEnd(ListNode head, int n) {
+        ListNode pre = new ListNode(0);
+        pre.next = head;
+        ListNode first = pre, tail = head;
+        while (tail.next != null) {
+            if (n <= 1)
+                first = first.next;
+            tail = tail.next;
+            n--;
+        }
+        first.next = first.next.next;
         return pre.next;
     }
 }

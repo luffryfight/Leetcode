@@ -6,10 +6,10 @@ import java.util.List;
 
 class Solution {
     /*
-    * 内层while是关键,s和p转化成char[]读取效率比charAt高
-    * */
+     * 内层while是关键,s和p转化成char[]读取效率比charAt高
+     * */
     public List<Integer> findAnagrams(String s, String p) {
-        if(s==null||p==null||s.length()<p.length())
+        if (s == null || p == null || s.length() < p.length())
             return new ArrayList<>();
         char[] arrS = s.toCharArray();
         char[] arrP = p.toCharArray();
@@ -43,7 +43,7 @@ class Solution {
                 left++;
             }
             //窗口大小符合要求就添加索引
-            if (right - left +1== arrP.length) {//因为right先++了，所以窗口大小判断是对的
+            if (right - left + 1 == arrP.length) {//因为right先++了，所以窗口大小判断是对的
                 ans.add(left);
             }
             right++;

@@ -9,11 +9,11 @@ import java.util.List;
  */
 public class Solution {
     public static void main(String[] args) {
-        List<Integer> list=new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
         System.out.println(list.size());
         list.add(1);
         list.add(1);
         list.add(1);
-        int a=0;
+        int a = 0;
     }
 }

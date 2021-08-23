@@ -7,14 +7,15 @@ package cn.kobe;
  * 2020/11/19
  */
 public class Solution2 {
-    public double myPow(double x, int n){
-        return n>0? dfs(x,n):dfs(x,-n);
+    public double myPow(double x, int n) {
+        return n > 0 ? dfs(x, n) : dfs(x, -n);
     }
-    public double dfs(double x,int n){
-        if (n==0){//base case
+
+    public double dfs(double x, int n) {
+        if (n == 0) {//base case
             return 1;
         }
-        double y=dfs(x,n/2);
-        return n%2==0?y*y:x*y*y;
+        double y = dfs(x, n / 2);
+        return n % 2 == 0 ? y * y : x * y * y;
     }
 }

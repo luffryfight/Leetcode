@@ -1,18 +1,25 @@
 package cn.kobe;
 
+import java.util.ArrayDeque;
+import java.util.Deque;
 import java.util.Stack;
 
 class Solution2 {
     class ListNode {
         int val;
         Solution.ListNode next;
-        ListNode(int x) { val = x; }
+
+        ListNode(int x) {
+            val = x;
+        }
     }
+
     public int[] nextLargerNodes(ListNode head) {
         int[] arr = new int[10000];
         int[] valueArr = new int[10000];
 
-        Stack<Integer> stack = new Stack<>();
+        //Stack<Integer> stack = new Stack<>();
+        Deque<Integer> stack = new ArrayDeque<>();
         int length = 0;
         int value;
         while (head != null) {

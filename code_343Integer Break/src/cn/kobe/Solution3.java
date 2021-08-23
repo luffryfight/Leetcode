@@ -2,8 +2,8 @@ package cn.kobe;
 
 public class Solution3 {
     /*
-    * 根据余数判断
-    * */
+     * 根据余数判断
+     * */
     public int integerBreak(int n) {
         if (n <= 3) {
             return n - 1;

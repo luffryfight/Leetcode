@@ -5,7 +5,9 @@ import java.util.List;
 import java.util.Stack;
 
 public class Solution3 {
-    /**转换为后缀**/
+    /**
+     * 转换为后缀
+     **/
     public int calculate(String s) {
         String[] polish = getPolish(s); //转后缀表达式
         return evalRPN(polish);
@@ -133,8 +135,8 @@ public class Solution3 {
     }
 
     public static void main(String[] args) {
-        Solution3 s3=new Solution3();
-        for(String s:s3.getPolish("2-1 + 2"))
+        Solution3 s3 = new Solution3();
+        for (String s : s3.getPolish("2-1 + 2"))
             System.out.print(s);
     }
 }

@@ -4,8 +4,12 @@ public class Solution2 {
     public class ListNode {
         int val;
         ListNode next;
-        ListNode(int x) { val = x; }
+
+        ListNode(int x) {
+            val = x;
+        }
     }
+
     //如果自己实现Set集合会更快一些
     public int numComponents(ListNode head, int[] G) {
         final int N = Len(head);

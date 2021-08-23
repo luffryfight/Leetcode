@@ -8,33 +8,40 @@ public class Solution2 {
         int val;
         TreeNode left;
         TreeNode right;
-        TreeNode() {}
-        TreeNode(int val) { this.val = val; }
+
+        TreeNode() {
+        }
+
+        TreeNode(int val) {
+            this.val = val;
+        }
+
         TreeNode(int val, TreeNode left, TreeNode right) {
             this.val = val;
             this.left = left;
             this.right = right;
         }
     }
+
     class Solution {
         public void recoverTree(TreeNode root) {
             Deque<TreeNode> stack = new ArrayDeque<TreeNode>();
             TreeNode x = null, y = null, pred = null;
 
             while (!stack.isEmpty() || root != null) {
-                while(root!=null){
+                while (root != null) {
                     stack.push(root);
-                    root=root.left;
+                    root = root.left;
                 }
-                root=stack.pop();
-                if(pred!=null&&pred.val>root.val){
-                    y=root;
-                    if(x==null){
-                        x=pred;
-                    }else break;
+                root = stack.pop();
+                if (pred != null && pred.val > root.val) {
+                    y = root;
+                    if (x == null) {
+                        x = pred;
+                    } else break;
                 }
-                pred=root;
-                root=root.right;
+                pred = root;
+                root = root.right;
             }
 
             swap(x, y);

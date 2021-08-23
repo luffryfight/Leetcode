@@ -8,14 +8,21 @@ public class Solution2 {
         int val;
         Solution.TreeNode left;
         Solution.TreeNode right;
-        TreeNode() {}
-        TreeNode(int val) { this.val = val; }
+
+        TreeNode() {
+        }
+
+        TreeNode(int val) {
+            this.val = val;
+        }
+
         TreeNode(int val, Solution.TreeNode left, Solution.TreeNode right) {
             this.val = val;
             this.left = left;
             this.right = right;
         }
     }
+
     public List<TreeNode> generateTrees(int n) {
         if (n == 0) {
             return new LinkedList<TreeNode>();

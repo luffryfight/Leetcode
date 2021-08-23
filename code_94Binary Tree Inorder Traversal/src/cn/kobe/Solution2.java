@@ -11,22 +11,26 @@ public class Solution2 {
         int val;
         TreeNode left;
         TreeNode right;
-        TreeNode(int x) { val = x; }
+
+        TreeNode(int x) {
+            val = x;
+        }
     }
-    public List<Integer> inorderTraversal(TreeNode root){
-        List<Integer> res=new LinkedList<>();
-        Deque<TreeNode> stack=new ArrayDeque<>();
-        TreeNode temp=root;
-        while(temp!=null||stack.isEmpty()){
-            while(temp!=null){
+
+    public List<Integer> inorderTraversal(TreeNode root) {
+        List<Integer> res = new LinkedList<>();
+        Deque<TreeNode> stack = new ArrayDeque<>();
+        TreeNode temp = root;
+        while (temp != null || stack.isEmpty()) {
+            while (temp != null) {
                 stack.push(temp);
-                temp=temp.left;
+                temp = temp.left;
             }
-            TreeNode cur=stack.peek();
+            TreeNode cur = stack.peek();
             System.out.println(cur.val);
             stack.pop();
             res.add(cur.val);
-            temp=cur.right;
+            temp = cur.right;
         }
         return res;
     }

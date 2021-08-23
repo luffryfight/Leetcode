@@ -8,6 +8,7 @@ public class Solution3 {
         int val;
         Node next;
         Node random;
+
         public Node(int val) {
             this.val = val;
             this.next = null;
@@ -20,7 +21,9 @@ public class Solution3 {
             this.random = random;
         }
     }
+
     HashMap<Node, Node> visitedHash = new HashMap<Node, Node>();
+
     public Node copyRandomList(Node head) {
         if (head == null) {
             return null;

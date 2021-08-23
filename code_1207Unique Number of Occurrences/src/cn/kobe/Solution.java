@@ -11,13 +11,13 @@ import java.util.List;
  */
 public class Solution {
     public boolean uniqueOccurrences(int[] arr) {
-        HashMap<Integer,Integer> map=new HashMap<>();
-        List<Integer> res=new ArrayList<>();
+        HashMap<Integer, Integer> map = new HashMap<>();
+        List<Integer> res = new ArrayList<>();
         for (int ch : arr) {
-            int num=map.getOrDefault(ch,0);
-            map.put(ch,num+1);
+            int num = map.getOrDefault(ch, 0);
+            map.put(ch, num + 1);
         }
-        for (Integer ch:map.keySet()){
+        for (Integer ch : map.keySet()) {
             if (res.contains(map.get(ch))) return false;
             res.add(map.get(ch));
         }
@@ -25,8 +25,8 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        int[] arr={1,2};
-        Solution solution=new Solution();
+        int[] arr = {1, 2};
+        Solution solution = new Solution();
         System.out.println(solution.uniqueOccurrences(arr));
     }
 }

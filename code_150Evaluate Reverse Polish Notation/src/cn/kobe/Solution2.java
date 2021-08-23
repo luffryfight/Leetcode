@@ -1,7 +1,7 @@
 package cn.kobe;
 
 class Solution2 {
-    //纯数组模拟栈实现(推荐)   3 ms	36 MB
+
     public static int evalRPN(String[] tokens) {
         int[] numStack = new int[tokens.length / 2 + 1];
         int index = 0;
@@ -28,5 +28,6 @@ class Solution2 {
         }
         return numStack[0];
     }
+    //纯数组模拟栈实现(推荐)   3 ms	36 MB
 }
 

@@ -9,21 +9,22 @@ import java.util.Arrays;
  * 2020/11/6
  */
 public class Solution2 {
-    public int[] sortByBits(int[] arr){
-        int level=100000;
+    public int[] sortByBits(int[] arr) {
+        int level = 100000;
         for (int i = 0; i < arr.length; i++) {
-            arr[i]=getCount(arr[i])*level+arr[i];
+            arr[i] = getCount(arr[i]) * level + arr[i];
         }
         Arrays.sort(arr);
         for (int i = 0; i < arr.length; i++) {
-            arr[i]%=level;
+            arr[i] %= level;
         }
         return arr;
     }
-    public int getCount(int num){
-        int count=0;
-        while(num>0){
-            num&=num-1;
+
+    public int getCount(int num) {
+        int count = 0;
+        while (num > 0) {
+            num &= num - 1;
             count++;
         }
         return count;

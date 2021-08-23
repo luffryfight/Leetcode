@@ -22,20 +22,23 @@ public class Solution {
             neighbors = _neighbors;
         }
     }
-    Map<Integer,Node> buckets=new HashMap<>();
+
+    Map<Integer, Node> buckets = new HashMap<>();
+
     public Node cloneGraph(Node node) {
-        if(node==null)
+        if (node == null)
             return null;
         return dfs(node);
     }
-    private Node dfs(Node head){
-        System.out.print(head.val+" ");
-        if(buckets.containsKey(head.val))
-            return buckets.get(head.val);
-        Node newNode=new Node(head.val);
 
-        buckets.put(head.val,newNode);
-        for(Node ch:head.neighbors){//因为是连通的所以可以访问到所有节点
+    private Node dfs(Node head) {
+        System.out.print(head.val + " ");
+        if (buckets.containsKey(head.val))
+            return buckets.get(head.val);
+        Node newNode = new Node(head.val);
+
+        buckets.put(head.val, newNode);
+        for (Node ch : head.neighbors) {//因为是连通的所以可以访问到所有节点
             newNode.neighbors.add(dfs(ch));
         }
         return newNode;

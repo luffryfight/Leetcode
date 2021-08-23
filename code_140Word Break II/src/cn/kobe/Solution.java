@@ -1,6 +1,7 @@
 package cn.kobe;
 
 import java.util.*;
+import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * 作用：理解了就好
@@ -14,6 +15,7 @@ class Solution {
         for (List<String> wordBreak : wordBreaks) {
             breakList.add(String.join(" ", wordBreak));
         }
+        //ReentrantLock
         return breakList;
     }
 

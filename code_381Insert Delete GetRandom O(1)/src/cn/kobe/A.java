@@ -10,13 +10,17 @@ class A {
     Map<Integer, Set<Integer>> idx;
     List<Integer> nums;
 
-    /** Initialize your data structure here. */
+    /**
+     * Initialize your data structure here.
+     */
     public A() {
         idx = new HashMap<Integer, Set<Integer>>();
         nums = new ArrayList<Integer>();
     }
 
-    /** Inserts a value to the collection. Returns true if the collection did not already contain the specified element. */
+    /**
+     * Inserts a value to the collection. Returns true if the collection did not already contain the specified element.
+     */
     public boolean insert(int val) {
         nums.add(val);
         Set<Integer> set = idx.getOrDefault(val, new HashSet<Integer>());
@@ -25,7 +29,9 @@ class A {
         return set.size() == 1;
     }
 
-    /** Removes a value from the collection. Returns true if the collection contained the specified element. */
+    /**
+     * Removes a value from the collection. Returns true if the collection contained the specified element.
+     */
     public boolean remove(int val) {
         if (!idx.containsKey(val)) {
             return false;
@@ -46,7 +52,9 @@ class A {
         return true;
     }
 
-    /** Get a random element from the collection. */
+    /**
+     * Get a random element from the collection.
+     */
     public int getRandom() {
         return nums.get((int) (Math.random() * nums.size()));
     }

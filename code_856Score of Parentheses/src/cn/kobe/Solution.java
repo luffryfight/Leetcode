@@ -6,39 +6,41 @@ import java.util.LinkedList;
 
 public class Solution {
     public static int scoreOfParentheses(String S) {
-        Deque<String> stack=new LinkedList<>();//不能是Char,如果是的话，弹出数字就会有问题
+        Deque<String> stack = new LinkedList<>();//不能是Char,如果是的话，弹出数字就会有问题
         //转换为数组
-        char[] str=S.toCharArray();
-        int index=0;//用来判断结束
-        for(char s:str){
+        char[] str = S.toCharArray();
+        int index = 0;//用来判断结束
+        for (char s : str) {
             index++;
-            if(s=='(')
+            if (s == '(')
                 stack.push("(");
-            else{//s==')'
+            else {//s==')'
                 String ch;
-                int sum=0;
-                while(!stack.isEmpty()&&(ch=stack.pop())!="("){
-                    sum+=Integer.parseInt(ch)-0;
+                int sum = 0;
+                while (!stack.isEmpty() && (ch = stack.pop()) != "(") {
+                    sum += Integer.parseInt(ch) - 0;
                 }
-                if(sum==0){//()的情况
+                if (sum == 0) {//()的情况
                     stack.push("1");
-                }else{//（A）
-                    sum*=2;
+                } else {//（A）
+                    sum *= 2;
                     stack.push(String.valueOf(sum));
                 }
             }
         }
-        int res=0;
-        while(!stack.isEmpty()){
-            res+=Integer.parseInt(stack.pop());
+        int res = 0;
+        while (!stack.isEmpty()) {
+            res += Integer.parseInt(stack.pop());
         }
         return res;
     }
-    private static int getSum(Deque<Character> stack){
+
+    private static int getSum(Deque<Character> stack) {
         return 0;
     }
+
     public static void main(String[] args) {
-        String str="(()(()()))(()((()))())";
+        String str = "(()(()()))(()((()))())";
         System.out.println(Solution.scoreOfParentheses(str));
     }
 }

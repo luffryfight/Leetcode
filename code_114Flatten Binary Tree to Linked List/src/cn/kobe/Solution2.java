@@ -7,14 +7,21 @@ public class Solution2 {
         int val;
         TreeNode left;
         TreeNode right;
-        TreeNode() {}
-        TreeNode(int val) { this.val = val; }
-        TreeNode(int val, TreeNode left,TreeNode right) {
+
+        TreeNode() {
+        }
+
+        TreeNode(int val) {
+            this.val = val;
+        }
+
+        TreeNode(int val, TreeNode left, TreeNode right) {
             this.val = val;
             this.left = left;
             this.right = right;
         }
     }
+
     //后续遍历
     public void flatten(TreeNode root) {
         Stack<TreeNode> toVisit = new Stack<>();

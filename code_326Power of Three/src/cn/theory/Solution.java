@@ -2,11 +2,11 @@ package cn.theory;
 
 public class Solution {
     public static boolean isPowerOfThree(int n) {
-        while(n>1){
-            if(n==3){
+        while (n > 1) {
+            if (n == 3) {
                 return true;
             }
-            n/=3;
+            n /= 3;
         }
         return false;
     }

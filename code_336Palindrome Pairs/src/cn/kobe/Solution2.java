@@ -93,6 +93,7 @@ class Solution2 {
         return start >= end;
     }
 }
+
 class TrieNode {
 
     public int wordIndex = -1;

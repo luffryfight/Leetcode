@@ -2,8 +2,8 @@ package cn.kobe;
 
 class Solution2 {
     /*
-    * 略带技巧的方式，参考题解了！get
-    * */
+     * 略带技巧的方式，参考题解了！get
+     * */
     public int minAddToMakeValid(String S) {
         int ans = 0, bal = 0;
         for (int i = 0; i < S.length(); ++i) {

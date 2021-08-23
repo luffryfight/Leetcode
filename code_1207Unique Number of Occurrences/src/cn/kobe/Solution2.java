@@ -9,16 +9,16 @@ import java.util.Set;
  * 2020/10/28
  */
 public class Solution2 {
-    public boolean uniqueOccurrences(int[] arr){
-        Set<Integer> buckt=new HashSet<>();
+    public boolean uniqueOccurrences(int[] arr) {
+        Set<Integer> buckt = new HashSet<>();
         Arrays.sort(arr);//快排这么快嘛
-        int count=1;
+        int count = 1;
         for (int i = 1; i < arr.length; i++) {
-            if (arr[i]!=arr[i-1]){//重新计数
+            if (arr[i] != arr[i - 1]) {//重新计数
                 if (!buckt.add(count))
                     return false;
-                count=1;
-            }else
+                count = 1;
+            } else
                 count++;
         }
         //最后一次的判断

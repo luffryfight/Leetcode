@@ -1,9 +1,9 @@
 package leetcode1323;
 
 public class Solution {
-    public static int maximum69Number (int num) {
-        String str=num+"";//转化成字符串
-        str=str.replaceFirst("6","9");
+    public static int maximum69Number(int num) {
+        String str = num + "";//转化成字符串
+        str = str.replaceFirst("6", "9");
         return Integer.parseInt(str);
     }
     /*

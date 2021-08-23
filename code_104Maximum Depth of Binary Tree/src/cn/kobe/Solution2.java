@@ -9,21 +9,24 @@ public class Solution2 {
         int val;
         TreeNode left;
         TreeNode right;
-        TreeNode(int x) { val = x; }
+
+        TreeNode(int x) {
+            val = x;
+        }
     }
 
     public int maxDepth(TreeNode root) {
-        if(root==null)
+        if (root == null)
             return 0;
-        int hegith=0;
-        Deque<TreeNode> queue=new ArrayDeque<>();
+        int hegith = 0;
+        Deque<TreeNode> queue = new ArrayDeque<>();
         queue.push(root);
-        while(!queue.isEmpty()){
-            int size=queue.size();
+        while (!queue.isEmpty()) {
+            int size = queue.size();
             for (int i = 0; i < size; i++) {
-                TreeNode ch=queue.poll();
-                if(ch.left!=null)   queue.push(ch.left);
-                if(ch.right!=null)   queue.push(ch.right);
+                TreeNode ch = queue.poll();
+                if (ch.left != null) queue.push(ch.left);
+                if (ch.right != null) queue.push(ch.right);
             }
             hegith++;
         }

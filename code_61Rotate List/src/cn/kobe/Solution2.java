@@ -7,25 +7,29 @@ public class Solution2 {
     public class ListNode {
         int val;
         ListNode next;
-        ListNode(int x) { val = x; }
-    }
-    public ListNode rotateRight(ListNode head, int k) {
-        if(head==null)
-            return null;
-        if(head.next==null)
-            return head;
-        ListNode temp=head;
-        int len=1;//节点个数
-        for(;temp.next!=null;len++)
-            temp=temp.next;
-        //连接头尾
-        temp.next=head;
 
-        for (int i = 0; i < (len-k) % (len-1); i++) {
-            head=head.next;
+        ListNode(int x) {
+            val = x;
         }
-        ListNode newhead=head.next;
-        head.next=null;
+    }
+
+    public ListNode rotateRight(ListNode head, int k) {
+        if (head == null)
+            return null;
+        if (head.next == null)
+            return head;
+        ListNode temp = head;
+        int len = 1;//节点个数
+        for (; temp.next != null; len++)
+            temp = temp.next;
+        //连接头尾
+        temp.next = head;
+
+        for (int i = 0; i < (len - k) % (len - 1); i++) {
+            head = head.next;
+        }
+        ListNode newhead = head.next;
+        head.next = null;
         return newhead;
     }
 }

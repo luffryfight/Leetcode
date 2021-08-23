@@ -8,8 +8,8 @@ import java.util.Stack;
 
 public class Solution3 {
     public int[] nextGreaterElement(int[] findNums, int[] nums) {
-        Stack< Integer > stack = new Stack < > ();
-        HashMap< Integer, Integer > map = new HashMap < > ();
+        Stack<Integer> stack = new Stack<>();
+        HashMap<Integer, Integer> map = new HashMap<>();
         int[] res = new int[findNums.length];
         for (int i = 0; i < nums.length; i++) {
             while (!stack.empty() && nums[i] > stack.peek())

@@ -8,11 +8,11 @@ import java.util.*;
  */
 public class Solution {
     public int[] sortByBits(int[] arr) {
-        List<Integer> list=new ArrayList<>();
-        int[] bit=new int[10001];
-        for (int ch:arr){
+        List<Integer> list = new ArrayList<>();
+        int[] bit = new int[10001];
+        for (int ch : arr) {
             list.add(ch);
-            bit[ch]=getCount(ch);
+            bit[ch] = getCount(ch);
         }
         Collections.sort(list, new Comparator<Integer>() {
             public int compare(Integer x, Integer y) {
@@ -24,14 +24,15 @@ public class Solution {
             }
         });
         for (int i = 0; i < arr.length; i++) {
-            arr[i]=list.get(i);
+            arr[i] = list.get(i);
         }
         return arr;
     }
-    public int getCount(int num){
-        int count=0;
-        while(num>0){
-            num&=num-1;
+
+    public int getCount(int num) {
+        int count = 0;
+        while (num > 0) {
+            num &= num - 1;
             count++;
         }
         return count;

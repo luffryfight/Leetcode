@@ -6,8 +6,12 @@ class Solution {
     public class ListNode {
         int val;
         ListNode next;
-        ListNode(int x) { val = x; }
+
+        ListNode(int x) {
+            val = x;
+        }
     }
+
     public ListNode[] splitListToParts(ListNode root, int k) {
         ListNode cur = root;
         int N = 0;
